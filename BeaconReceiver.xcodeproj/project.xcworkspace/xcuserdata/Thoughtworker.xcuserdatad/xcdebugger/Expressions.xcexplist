@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BeaconTableViewController locationManager:didRangeBeacons:inRegion:]:BeaconTableViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
